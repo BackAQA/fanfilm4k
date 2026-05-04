@@ -1,4 +1,4 @@
-package Betuganov_Admir.api;
+package Betuganov_Admir.api.models;
 
 public class Post {
 

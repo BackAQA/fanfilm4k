@@ -1,4 +1,4 @@
-package baseTest;
+package ui.base;
 
 public class Config {
 

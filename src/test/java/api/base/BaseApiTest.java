@@ -1,9 +1,9 @@
-package apiTests.baseApi;
+package api.base;
 
 import io.restassured.RestAssured;
 import org.junit.jupiter.api.BeforeAll;
 
-import static apiTests.config.Config.BASE_URL;
+import static api.config.Config.BASE_URL;
 
 public class BaseApiTest {
 

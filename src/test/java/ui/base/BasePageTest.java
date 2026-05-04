@@ -1,12 +1,12 @@
-package baseTest;
+package ui.base;
 
-import Betuganov_Admir.base.BasePage;
+import Betuganov_Admir.ui.base.BasePage;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 
-import static baseTest.Config.URL;
+import static ui.base.Config.URL;
 
 public class BasePageTest extends BasePage {  // ← наследовать BasePage!
 

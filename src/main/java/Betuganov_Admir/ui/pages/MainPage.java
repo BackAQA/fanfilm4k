@@ -1,6 +1,5 @@
-package Betuganov_Admir.base;
+package Betuganov_Admir.ui.pages;
 
-import com.microsoft.playwright.Locator;
 import com.microsoft.playwright.Page;
 import lombok.extern.slf4j.Slf4j;
 

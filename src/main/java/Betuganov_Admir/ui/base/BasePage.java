@@ -1,4 +1,4 @@
-package Betuganov_Admir.base;
+package Betuganov_Admir.ui.base;
 
 import com.microsoft.playwright.*;
 
@@ -47,5 +47,9 @@ public class BasePage {
     public static void closeHeavyResources() {
         if (browser != null) browser.close();
         if (playwright != null) playwright.close();
+    }
+
+    public Page getPage() {
+        return page;
     }
 }

@@ -1,7 +1,7 @@
-package tests;
+package ui.tests;
 
-import Betuganov_Admir.base.MainPage;
-import baseTest.BasePageTest;
+import Betuganov_Admir.ui.pages.MainPage;
+import ui.base.BasePageTest;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

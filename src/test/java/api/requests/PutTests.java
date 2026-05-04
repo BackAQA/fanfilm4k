@@ -1,4 +1,4 @@
-package apiTests.requests;
+package api.requests;
 
 public class PutTests {
 }

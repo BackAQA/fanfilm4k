@@ -1,7 +1,7 @@
-package apiTests.requests;
+package api.requests;
 
-import Betuganov_Admir.api.Post;
-import apiTests.baseApi.BaseApiTest;
+import Betuganov_Admir.api.models.Post;
+import api.base.BaseApiTest;
 import io.restassured.http.ContentType;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Nested;

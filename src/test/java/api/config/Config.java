@@ -1,4 +1,4 @@
-package apiTests.config;
+package api.config;
 
 public class Config {
 
